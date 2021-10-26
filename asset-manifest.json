@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/BrewDog_Beer_Discovery_App_React_API/static/css/main.8a8e4446.chunk.css",
+    "main.js": "/BrewDog_Beer_Discovery_App_React_API/static/js/main.3c9dcda9.chunk.js",
+    "main.js.map": "/BrewDog_Beer_Discovery_App_React_API/static/js/main.3c9dcda9.chunk.js.map",
+    "runtime-main.js": "/BrewDog_Beer_Discovery_App_React_API/static/js/runtime-main.29db8295.js",
+    "runtime-main.js.map": "/BrewDog_Beer_Discovery_App_React_API/static/js/runtime-main.29db8295.js.map",
+    "static/js/2.4fbc4294.chunk.js": "/BrewDog_Beer_Discovery_App_React_API/static/js/2.4fbc4294.chunk.js",
+    "static/js/2.4fbc4294.chunk.js.map": "/BrewDog_Beer_Discovery_App_React_API/static/js/2.4fbc4294.chunk.js.map",
+    "index.html": "/BrewDog_Beer_Discovery_App_React_API/index.html",
+    "static/css/main.8a8e4446.chunk.css.map": "/BrewDog_Beer_Discovery_App_React_API/static/css/main.8a8e4446.chunk.css.map",
+    "static/js/2.4fbc4294.chunk.js.LICENSE.txt": "/BrewDog_Beer_Discovery_App_React_API/static/js/2.4fbc4294.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.29db8295.js",
+    "static/js/2.4fbc4294.chunk.js",
+    "static/css/main.8a8e4446.chunk.css",
+    "static/js/main.3c9dcda9.chunk.js"
+  ]
+}
